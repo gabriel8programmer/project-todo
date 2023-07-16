@@ -64,7 +64,9 @@ body {
 
 #todoes .todo p {
     width: 70%;
+    height: 50px;
     color: #ddd;
+    overflow: hidden;
 }
 
 #todoes .todo .controls {
