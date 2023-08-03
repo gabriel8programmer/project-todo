@@ -82,5 +82,15 @@ body {
     cursor: pointer;
 }
 
+.actived {
+    background: #800;
+    color: #fff;
+    transition: .5s;
+}
+
+.actived button {
+    background: transparent !important;
+}
+
 
 
